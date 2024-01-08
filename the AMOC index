@@ -1,0 +1,6 @@
+1. the AMOC index as the annual-mean maximum ocean overturning stream function between 20◦N to 70◦N from depths 200 to 3000 meters. 
+    from "The role of internal feedbacks in sustaining multi-centennial variability of the Atlantic Meridional Overturning Circulation revealed by EC-Earth3-LR simulations".
+
+
+2. defined as the maximum streamfunction in the range of 500–4,000 m over 20°N–70°N. The streamfunction across the Atlantic basin is calculated as: 𝐴𝐴 ∫ 𝑥𝑥2 𝑥𝑥1 ∫ 0 −𝑧𝑧 𝑣𝑣𝑣𝑣𝑥𝑥𝑣𝑣𝑧𝑧, where v is the ocean meridional velocity, (x1, x2) is the western and eastern boundary of Atlantic basin
+  from "Separating Direct Heat Flux Forcing and Freshwater Feedback on AMOC Change Under Global Warming".
